@@ -26,7 +26,7 @@ Repository for various use cases used for demo purposes only.
       }
    ],
    "authentication":[
-      "did:ethr:0xb9c5714089478a327f09197987f16f9e5d936e8a#controller",
+      "did:ethr:0x0279be667ef9dcbbac55a06295ce870b07029bfcdb2dce28d959f2815b16f81798",
       "did:ethr:0x0279be667ef9dcbbac55a06295ce870b07029bfcdb2dce28d959f2815b16f81798#controllerKey"
    ]
 }
@@ -50,7 +50,7 @@ Repository for various use cases used for demo purposes only.
    },
    "issuanceDate":"2010-01-01T19:23:24Z",
    "credentialSubject":{
-      "@id":"did:ethr:0x0279be667ef9dcbbac55a06295ce870b07029bfcdb2d",
+      "@id":"did:ethr:0x0279be667ef9dcbbac55a06295ce870b07029bfcdb2dce28d959f2815b16f81798",
       "@type":"Person",
       "name":"John Doe"
    },
@@ -73,7 +73,7 @@ Repository for various use cases used for demo purposes only.
       "VerifiableNft"
    ],
    "issuer":{
-      "@id":"did:ethr:0xabcd"
+      "@id":"did:ethr:0x0279be667ef9dcbbac55a06295ce870b07029bfcdb2dce28d959f2815b16f81798"
    },
    "issuanceDate":"2010-01-01T19:23:24Z",
    "credentialSubject":{
@@ -156,7 +156,7 @@ Repository for various use cases used for demo purposes only.
          }
       ],
       "authentication":[
-         "did:ethr:0xb9c5714089478a327f09197987f16f9e5d936e8a#controller",
+         "did:ethr:0x0279be667ef9dcbbac55a06295ce870b07029bfcdb2dce28d959f2815b16f81798#controller",
          "did:ethr:0x0279be667ef9dcbbac55a06295ce870b07029bfcdb2dce28d959f2815b16f81798#controllerKey"
       ]
    },
@@ -175,7 +175,7 @@ Repository for various use cases used for demo purposes only.
       },
       "issuanceDate":"2010-01-01T19:23:24Z",
       "credentialSubject":{
-         "@id":"did:ethr:0x0279be667ef9dcbbac55a06295ce870b07029bfcdb2d",
+         "@id":"did:ethr:0x0279be667ef9dcbbac55a06295ce870b07029bfcdb2dce28d959f2815b16f81798",
          "@type":"Person",
          "name":"John Doe"
       },
