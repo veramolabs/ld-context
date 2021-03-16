@@ -1,6 +1,7 @@
 {
   "@context": {
       "@version": 1.1,
-      "@protected": true
+      "@protected": true,
+      "VerifableSocialMediaPosting": "https://veramolabs.github.io/ld-context/contexts/socialmedia#VerifableSocialMediaPosting"
   }
 }
