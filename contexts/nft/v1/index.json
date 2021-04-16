@@ -2,12 +2,12 @@
   "@context": {
       "@version": 1.1,
       "@protected": true,
-      "VerifiableNft": "https://veramolabs.github.io/ld-context/contexts/nft#VerifiableNft",
+      "VerifiableNft": "https://veramo.io/contexts/nft#VerifiableNft",
       "name": "https://schema.org/name",
-      "numberOfTokens": "https://veramolabs.github.io/ld-context/contexts/nft#numberOfTokens",
-      "contractAddress": "https://veramolabs.github.io/ld-context/contexts/nft#contractAddress",
-      "contractType": "https://veramolabs.github.io/ld-context/contexts/nft#contractType",
-      "tokenId": "https://veramolabs.github.io/ld-context/contexts/nft#tokenId",
-      "chainId": "https://veramolabs.github.io/ld-context/contexts/nft#chainId"
+      "numberOfTokens": "https://veramo.io/contexts/nft#numberOfTokens",
+      "contractAddress": "https://veramo.io/contexts/nft#contractAddress",
+      "contractType": "https://veramo.io/contexts/nft#contractType",
+      "tokenId": "https://veramo.io/contexts/nft#tokenId",
+      "chainId": "https://veramo.io/contexts/nft#chainId"
     }
 }
