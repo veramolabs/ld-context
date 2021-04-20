@@ -1,0 +1,7 @@
+{
+  "@context": {
+      "@version": 1.1,
+      "@protected": true,
+      "message": "https://veramo.io/contexts/BasicMessage#message"
+  }
+}
