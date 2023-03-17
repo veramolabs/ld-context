@@ -1,0 +1,62 @@
+{
+    "@context": {
+        "w3ccred": "https://www.w3.org/2018/credentials#",
+        "schema-id": "https://veramo.io/contexts/discord-kudos#",
+        "DiscordKudos": {
+            "@id": "schema-id"
+        },
+        "kudos": {
+            "@id": "schema-id:kudos",
+            "@type": "http://schema.org/Text"
+        },
+        "url": {
+            "@id": "schema-id:url",
+            "@type": "http://schema.org/Text"
+        },
+        "discordUserId": {
+            "@id": "schema-id:discordUserId",
+            "@type": "http://schema.org/Text"
+        },
+        "discordUserName": {
+            "@id": "schema-id:discordUserName",
+            "@type": "http://schema.org/Text"
+        },
+        "discordUserAvatar": {
+            "@id": "schema-id:discordUserAvatar",
+            "@type": "http://schema.org/URL"
+        },
+        "discordAuthorId": {
+            "@id": "schema-id:discordAuthorId",
+            "@type": "http://schema.org/Text"
+        },
+        "discordAuthorName": {
+            "@id": "schema-id:discordAuthorName",
+            "@type": "http://schema.org/Text"
+        },
+        "discordAuthorAvatar": {
+            "@id": "schema-id:discordAuthorAvatar",
+            "@type": "http://schema.org/URL"
+        },
+        "discordChannelId": {
+            "@id": "schema-id:discordChannelId",
+            "@type": "http://schema.org/Text"
+        },
+        "discordChannelName": {
+            "@id": "schema-id:discordChannelName",
+            "@type": "http://schema.org/Text"
+        },
+        "discordGuildId": {
+            "@id": "schema-id:discordGuildId",
+            "@type": "http://schema.org/Text"
+        },
+        "discordGuildName": {
+            "@id": "schema-id:discordGuildName",
+            "@type": "http://schema.org/Text"
+        },
+        "discordGuildAvatar": {
+            "@id": "schema-id:discordGuildAvatar",
+            "@type": "http://schema.org/URL"
+        },
+        "@version": 1.1
+    }
+}
